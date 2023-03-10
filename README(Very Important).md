@@ -13,9 +13,9 @@
 
 3 -  You can visit Wiki see above in this page you can get descriptive image where you can find to extract and paste ffmpeg as well how to set environment varaible
 
-     https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki
+https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki
          
-     Or You can visit https://www.youtube.com/watch?v=WlnwMenTC5o to get how to download ffmpeg package and set Environment Variable 
+Or You can visit https://www.youtube.com/watch?v=WlnwMenTC5o to get how to download ffmpeg package and set Environment Variable 
 
 
 
