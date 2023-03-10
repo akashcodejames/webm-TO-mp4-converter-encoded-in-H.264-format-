@@ -28,6 +28,7 @@ def my_func(path):
 paths = "A:\Module 1"         # path which contains all the webm videos , it could contain other files , 
                               # this program can search for all directories within provided directory and search for webm videos and convert it mp4 )
                               # It will not effect your other files
+                              # Change paths directory where your webm videos are stored, as i mentioned that directory could also contain other files it will them which are not webm video
 my_func(paths)
  
     
