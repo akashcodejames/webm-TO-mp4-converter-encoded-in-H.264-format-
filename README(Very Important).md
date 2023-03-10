@@ -28,8 +28,9 @@ You can check here where to change   https://github.com/akashcodejames/webm-TO-m
                               # It will not effect your other files
                               # Change paths directory where your webm videos are stored, 
                                 as i mentioned that directory could also contain other files it will them which are not webm video
-my_func(paths)
+
  
-    
+5 - REFER through webmconvertTomp4.py if you need how code is working and Note to change paths variable in the codde to the directory where 
+your videos are saved.
     
    
