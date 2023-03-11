@@ -13,7 +13,7 @@
 
 3 -  You can visit Wiki see above in this page you can get descriptive image where you can find to extract and paste ffmpeg as well how to set environment varaible
 
-https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki
+https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki/Extracting-and-setting-Environment-Variable-for-ffmpeg-package
          
 Or You can visit https://www.youtube.com/watch?v=WlnwMenTC5o to get how to download ffmpeg package and set Environment Variable 
 
@@ -22,7 +22,7 @@ Or You can visit https://www.youtube.com/watch?v=WlnwMenTC5o to get how to downl
 
 4 - Change paths variable in py file(webmconvertTomp4.py) where your webm videos are located and you are all done.
 
-You can check here where to change   https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-.wiki.git
+You can check here where to change   https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki/Changing-directory-where-videos-are-saved
 
                               # this program can search for all directories within provided directory and search for webm videos and convert it mp4 )
                               # It will not effect your other files
@@ -32,5 +32,8 @@ You can check here where to change   https://github.com/akashcodejames/webm-TO-m
  
 5 - REFER through webmconvertTomp4.py if you need how code is working and Note to change paths variable in the codde to the directory where 
 your videos are saved.
+
+
+6 - You can check which video is presently in conversion , https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki/How-to-check-which-videos-is-currently-in-Conversion.
     
    
