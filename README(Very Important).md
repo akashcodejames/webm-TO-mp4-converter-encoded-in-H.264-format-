@@ -4,8 +4,7 @@
 
   Note to make copy of your original videos , there is no chance you will lose data but however maintain copy incase something unexcepted occurs
   Using ffmpeg package to convert webm videos .
-You can refer here if interested what are video encoding techniques and formats and how ffmpeg works here 
-https://blog.addpipe.com/converting-webm-to-mp4-with-ffmpeg/ , otherwise skip this just for reference incase if you want to know.
+You can refer https://blog.addpipe.com/converting-webm-to-mp4-with-ffmpeg/ if you are interested what are video encoding techniques and formats and how ffmpeg works , otherwise skip this just for reference incase if you want to know.
 
 1 -  Download ffmpeg from ffmpeg download link , extract it and paste in C drive ( C:\)
 
