@@ -34,6 +34,6 @@ You can check here where to change   https://github.com/akashcodejames/webm-TO-m
 your videos are saved.
 
 
-6 - You can check which video is presently in conversion , https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki/How-to-check-which-videos-is-currently-in-Conversion.
+6 - You can check which video is presently in conversion , https://github.com/akashcodejames/webm-TO-mp4-converter-encoded-in-H.264-format-/wiki/How-to-check-which-videos-is-currently-in-Conversion
     
    
